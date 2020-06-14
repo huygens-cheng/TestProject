@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root xmlns="jar://C:/Program Files/JetBrains/IntelliJ IDEA 2018.3.4/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspxml.xsd">
+    <Country>
+        <China>
+            <Name>China</Name>
+            <Location>Asia</Location>
+        </China>
+        <Amercia>
+            <Name>Amercia</Name>
+            <Location>Amercian</Location>
+        </Amercia>
+    </Country>
+    <ManKind>
+        <Yellow>
+            <Name>Yellow</Name>
+            <Sample>Chinese</Sample>
+        </Yellow>
+        <Black>
+            <Name>Black</Name>
+            <Sample>Indian</Sample>
+        </Black>
+    </ManKind>
+</root>
